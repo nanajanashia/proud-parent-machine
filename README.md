@@ -1,6 +1,6 @@
 ## Audio Sample Preparation
 
-> 🎬 **See it in action:** [Watch the demo on YouTube](https://youtube.com/shorts/P6uK8UZhRaw?si=GffPSVNz8_QJsvVH) — coin goes in, machine plays audio!
+> 🎬 **Demo:** [YouTube Short](https://youtube.com/shorts/P6uK8UZhRaw?si=GffPSVNz8_QJsvVH)
 
 To upload an audio sample to Arduino, you'll need to convert it to a compatible format.
 
