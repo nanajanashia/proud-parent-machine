@@ -1,6 +1,6 @@
 ## Audio Sample Preparation
 
-> 🎬 **Demo:** [YouTube Short](https://youtube.com/shorts/P6uK8UZhRaw?si=GffPSVNz8_QJsvVH)
+> 🎬 **Demo:** [YouTube Video](https://youtube.com/shorts/P6uK8UZhRaw?si=GffPSVNz8_QJsvVH)
 
 To upload an audio sample to Arduino, you'll need to convert it to a compatible format.
 
